@@ -33,7 +33,11 @@ Thank you for using our elevator simulation!
 ## Contributors
 
 Evans Acheampong
+
 Ofori
+
 Beres
+
 Eddie Acquah
+
 Eyram Ahiator
