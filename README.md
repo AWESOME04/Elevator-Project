@@ -37,10 +37,10 @@ Thank you for using our elevator simulation!
 
 Evans Acheampong
 
-Ofori
+Amoah Ofori Darkwah
 
-Beres
+Bani Beres Etornam  
 
-Eddie Acquah
+Edward Acquah
 
-Eyram Ahiator
+Eyram Aheto
