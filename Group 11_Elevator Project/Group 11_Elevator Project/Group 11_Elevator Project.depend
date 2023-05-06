@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682900163 source:c:\users\hp\desktop\group 11_elevator project\group 11_elevator project\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<sstream>
+
