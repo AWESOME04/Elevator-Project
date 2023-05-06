@@ -1,5 +1,8 @@
 # Elevator-Project
 
+![Elevator-without-rope](https://user-images.githubusercontent.com/102630199/236635284-f038afc0-21c8-4f4b-b7f4-f89d0e88182a.jpg)
+
+
 This project is an implementation of an elevator using Object Oriented Programming in C++
 
 The elevator carries people from one floor to another, based on the user's input. The project includes a UML design, OOP C++ code, and a GUI created using C++ Builder.
